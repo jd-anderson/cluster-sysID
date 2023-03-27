@@ -2,7 +2,7 @@
 
 This repository includes the MATLAB codes to implement the experimental results of the following paper:
 
-1) L. F. Toso, H. Wang, J. Anderson (2022). [Clustered System Identification: A Sample-Efficient Approach for Personalized Linear Model Estimations]
+1) L. F. Toso, H. Wang, J. Anderson (2023). [Clustered System Identification: A Sample-Efficient Approach for Personalized Linear Model Estimations]
 
 ## Instructions
 

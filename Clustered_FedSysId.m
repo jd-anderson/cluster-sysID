@@ -61,7 +61,7 @@ N=100;
 
 %Number of clients
 
-M=45;
+M=50;
 
 
 %Number of clusters
@@ -70,7 +70,7 @@ k=3;
 
 %Number of systems per cluster 
 
-Nsys_cluster=[15 12 18];
+Nsys_cluster=[10 24 16];
 
 
 % Generating the system matrices for each cluster according to
@@ -80,7 +80,7 @@ Nsys_cluster=[15 12 18];
 
 %Number of global iterations
 
-R=400; 
+R=700; 
 
 %Number of local iterations
 

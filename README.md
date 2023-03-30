@@ -1,6 +1,6 @@
 # Learning Personalized Models with Clustered System Identification
 
-This repository includes the MATLAB codes to implement the experimental results of the following paper:
+This repository includes the MATLAB codes to implement the experimental results of the following work:
 
 1) L. F. Toso, H. Wang, J. Anderson (2023). [Learning Personalized Models with Clustered System Identification]
 

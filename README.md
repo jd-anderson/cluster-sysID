@@ -2,7 +2,7 @@
 
 This repository includes the MATLAB codes to implement the experimental results of the following work:
 
-1) L. F. Toso, H. Wang, J. Anderson (2023). [Learning Personalized Models with Clustered System Identification][https://arxiv.org/abs/2304.01395]
+1) L. F. Toso, H. Wang, J. Anderson (2023). [Learning Personalized Models with Clustered System Identification](https://arxiv.org/abs/2304.01395)
 
 ## Instructions
 
